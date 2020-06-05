@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 
-django = "==1.11.4"
+django = "==1.11.29"
 ply = "==3.10"
 pytz = "==2017.2"
 "graphql-py" = "==0.7.1"
